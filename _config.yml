@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Chuu / Site Title"
+title                    : "Eric Chuu"
 title_separator          : "-"
 name                     : &name "Eric Chuu"
-description              : &description "personal description"
+description              : &description "First Year Ph.D Student at Texas A&M University"
 url                      : https://chuueric.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chuueric/chuueric.github.io"
@@ -46,7 +46,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -79,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Eric Chuu"
-  avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "dept.png"
+  bio              : "Statistics PhD Student"
   location         : "College Station, Texas"
   employer         :
   googlescholar    : 
