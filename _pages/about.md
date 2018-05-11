@@ -9,5 +9,4 @@ redirect_from:
 ---
 
 
-I am a second year Ph.D. student at Texas A&M University. I am looking to work on scalable Bayesian methods for tackling high-dimensional problems. More specifically, I am interested in Variational Bayesian methods. 
-
+I am a second year Ph.D. student at Texas A&M University. My research interests are broadly related to developing scalable Bayesian methods for tackling high-dimensional problems. In particular, I am interested in Variational Bayesian methods. 
